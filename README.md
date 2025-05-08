@@ -1,10 +1,10 @@
-# GitHub public roadmap
+# Yahtzee public roadmap
 
 :sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
 
-Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
+Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via issues or contact the media team directly at media@yahtzeego.com
 
-The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/orgs/community/discussions/new?category=general).
+The roadmap repository is for communicating Yahtzee’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features.
 
 
 ## Guide to the roadmap
@@ -41,17 +41,16 @@ Feature in discovery phase. We have decided to build this feature, but are still
 - **exploring:**\
 Feature under consideration. We are considering building this feature, and gathering feedback on it.
 
-## Release phases - For GHES
+## Release phases - For YahtzeeGo
 
-Some features may be marked with a GHES 3.X label, which indicates that the feature will also become available for Github Enterprise Server customers. Below are the release version numbers and expected release quarters (_Note: these dates are subject to change_). 
-
-**GHES release version dates**:
-| **Version Number** | **Release Quarter** | **Release Notes** |
+**YahtzeeGo release version dates**:
+| **Version Number** | **Release Sprint** | **Release Notes** |
 |-|-|-|
-| 3.12 | Q1 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes#3.12.0)|
-| 3.13 | Q2 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.13/admin/release-notes#3.13.0)|
-| 3.14 | Q3 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.14/admin/release-notes) |
-| 3.15 | Q4 2024 | -- |
+| 1.1.0 | Sprint 6 | -- |
+| 1.2.0 | Sprint 7 | -- |
+| 1.3.0 | Sprint 8 | -- |
+| 1.4.0 | Sprint 9 | -- |
+| 2.0 | Sprint 10 | -- |
 
 ## Roadmap stages
 
@@ -93,13 +92,7 @@ _More labels will be added in the future as needed._
 The following is a list of our current product SKUs. 
 
 - **all:** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
-- **github team:** GitHub Team
-- **github enterprise:** GitHub Enterprise (Cloud and Server)
-- **github one:** GitHub One (Cloud and Server)
-- **github ae:** GitHub AE (GHAE)
-- **github advanced security:** GitHub Advanced Security (add-on to GHE)
-- **github insights:** GitHub Insights (add-on to GHE)
-- **github learning lab:** GitHub Learning Lab (add-on to GHE)
+- **yahtzee team:** Yahtzee Team
 
 ## Disclaimer 
 
