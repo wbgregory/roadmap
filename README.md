@@ -35,11 +35,8 @@ Ready for production use with associated SLA and technical support obligations. 
 
 Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows: 
 
-- **in design:**\
-Feature in discovery phase. We have decided to build this feature, but are still figuring out _how_.
-
-- **exploring:**\
-Feature under consideration. We are considering building this feature, and gathering feedback on it.
+- **future:**\
+Feature in discovery phase. We have not decided to build this feature, but are heavily considering it.
 
 ## Release phases - For YahtzeeGo
 
@@ -67,12 +64,7 @@ The following is a list of our current product areas:
 - **code-to-cloud:** Code-to-cloud DevOps (Actions, Packages)
 - **collaboration:** Collaboration features (Pages, Wikis, Discussions)
 - **security & compliance:** Code security and compliance features
-- **admin-server:** Administrative features specific to GitHub Enterprise Server
-- **admin-cloud:** Administrative features specific to GitHub Cloud
 - **communities:** Community and social features
-- **ecosystem:** Ecosystem and API features
-- **learning:** Education and learning features
-- **insights:** Continuous learning and insights features
 - **client-apps:** Client applications (Desktop, Mobile)
 - **other:** Other features
 
@@ -80,10 +72,10 @@ The following is a list of our current product areas:
 
 The following is a list of our current features and products, with distinct labels for filtering:
 
-- **actions:** GitHub Actions
-- **docs:** GitHub Docs
-- **packages:** GitHub Packages
-- **pages:** GitHub Pages
+- **actions:** Yahtzee Actions
+- **docs:** Yahtzee Docs
+- **packages:** Yahtzee Packages
+- **pages:** Yahtzee Pages
 
 _More labels will be added in the future as needed._
 
