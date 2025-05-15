@@ -1,5 +1,12 @@
 # Yahtzee public roadmap
 
+## Quick Visual Overview (Summer 2025)
+![YahtzeeGo Roadmap](Yahtzee_Roadmap.png)
+
+
+
+## Formal Roadmap Documentation
+
 :sparkle: View the [official Yahtzee public product roadmap](https://github.com/users/wbgregory/projects/1/views/1)[^1]
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via issues or contact the media team directly at media@yahtzeego.com
