@@ -1,7 +1,7 @@
 # Yahtzee public roadmap
 
 ## Quick Visual Overview (Summer 2025)
-![YahtzeeGo Roadmap](Yahtzee_Roadmap.png)
+![YahtzeeGo Roadmap](assets/Yahtzee_Roadmap.png)
 
 
 
